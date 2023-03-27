@@ -61,8 +61,8 @@ plt.plot(X,y_predicted,color='green')
 plt.show()
 
 ## Output
-![ml ep-1](![image](https://user-images.githubusercontent.com/113573894/227876459-17f07be0-80ba-4919-a246-e0a7733d8d3d.png)
-)
+![ml ep-1](https://user-images.githubusercontent.com/113573894/227876459-17f07be0-80ba-4919-a246-e0a7733d8d3d.png)
+
 
 
 
